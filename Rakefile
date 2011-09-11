@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "fibonacci"
   gem.homepage = "http://github.com/computadude/fibonacci"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{finds the largest integer value from the Fibonacci Sequence smaller than the given integer}
+  gem.description = %Q{finds the largest integer value from the Fibonacci Sequence smaller than the given integer}
   gem.email = "computadude@me.com"
   gem.authors = ["computadude"]
   # dependencies defined in Gemfile
